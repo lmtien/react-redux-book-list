@@ -1,5 +1,5 @@
-# react-redux-match-and-chat
-Web application for matching and instantly chatting with others using React and Redux
+# react-redux-book-list
+A web application example showing list of books using React and Redux
 
 ## Running steps
 

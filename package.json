@@ -1,9 +1,9 @@
 {
-  "name": "react-redux-match-and-chat",
+  "name": "react-redux-book-list",
   "version": "1.0.0",
-  "description": "Web application for matching and instantly chatting with others using React and Redux",
+  "description": "A web application example showing list of books using React and Redux",
   "main": "index.js",
-  "repository": "https://github.com/lmtien/react-redux-match-and-chat.git",
+  "repository": "https://github.com/lmtien/react-redux-book-list.git",
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
